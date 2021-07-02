@@ -175,7 +175,7 @@ class App extends Component {
         
        
           </div>
-          <Link to="/dashboard">
+          <Link to="/menu">
           <Button
             className="menu__nav-button"
             // onClick={backMenu}

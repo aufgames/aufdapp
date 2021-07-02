@@ -23,7 +23,7 @@ const Start = () => {
   const startMenu = (event) => {
     event.preventDefault();
 
-    return history.push(`/dashboard`);
+    return history.push(`/menu`);
   };
 
 
